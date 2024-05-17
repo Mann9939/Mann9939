@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Verma</h1>
-<h3 align="center">An aspiring Data Scientist from India</h3>
+<h3 align="center">An aspiring 
+Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-dahiya&label=Profile%20views&color=0e75b6&style=flat" alt="paras-dahiya" /> </p>
 
